@@ -1,0 +1,29 @@
+{
+  "name": "ibm",
+  "version": "1.0.0",
+  "description": "Node js implementation of API Connect v5 Developer portal REST APIs",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "IBM",
+    "API",
+    "Connect",
+    "IBM",
+    "API",
+    "connect",
+    "IBM",
+    "API",
+    "connect",
+    "Developer",
+    "portal",
+    "REST",
+    "APIs",
+    "Invoke"
+  ],
+  "author": "Nayan Mevada",
+  "license": "ISC",
+  "dependencies": {}
+}
